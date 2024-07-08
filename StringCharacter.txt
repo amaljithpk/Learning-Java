@@ -1,4 +1,4 @@
-public class GetStringChar {
+public class GetStringCharac {
 	
 		public static char getCharacterAtPosition(String Str, int position){
 
